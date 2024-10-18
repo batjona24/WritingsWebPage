@@ -210,6 +210,7 @@ nav {
         font-size: 25px;
     }
 }
+
 .active {
     color: #ff7575 !important;
     border-top: 2px solid #ff7575;
